@@ -1,0 +1,7 @@
+interface:
+  display_name: "Paper Proposal Skill"
+  short_description: "Validate, design, draft, and revise graduate paper proposals"
+  default_prompt: "Use $paper-proposal-skill to evaluate my topic and build an evidence-backed proposal workflow."
+
+policy:
+  allow_implicit_invocation: true
