@@ -108,8 +108,10 @@ Create one coherent analytical chain.
 1. State the central puzzle in one sentence.
 2. Choose a mechanism or evaluation structure.
 3. Write one main question.
-4. Write three or four subquestions covering motivation, internalization, operating mechanism, and result or boundary.
-5. Map each subquestion to a chapter, method, and evidence source.
+4. Default to three subquestions when the mechanism has three distinct stages; add a fourth only when it has independent evidence, method, and chapter value.
+5. Keep case background outside the question count unless it is itself an object of analysis.
+6. Map each subquestion to one analysis chapter, method, and evidence source.
+7. Merge questions that rely on the same mechanism and evidence rather than creating parallel chapters with repetitive content.
 
 ### Output
 
@@ -117,7 +119,7 @@ A question tree and chapter-evidence map.
 
 ### Quality checkpoint
 
-Removing any subquestion would leave a visible gap; adding another would broaden the study beyond its central mechanism.
+Removing any subquestion would leave a visible gap; adding another would either duplicate evidence or broaden the study beyond its central mechanism.
 
 ## Phase 5: Literature review and theory
 
@@ -169,6 +171,20 @@ Each method is executable with accessible data and contributes a necessary analy
 
 Produce a school-compliant, evidence-backed document.
 
+### Chapter architecture checkpoint
+
+Before drafting full prose:
+
+1. place case background, company profile, institutional setting, governance history, and key data in a case-introduction chapter;
+2. assign one core analysis chapter to each subquestion;
+3. write chapter titles that state the analytical logic rather than generic labels such as “case analysis”;
+4. retain a narrow technical issue as one analysis chapter when it is evidence-rich but too small to support the whole thesis;
+5. synchronize the table of contents and framework diagram with the final question chain.
+
+A common three-question structure is:
+
+> case introduction → external pressure and organizational internalization → data or measurement governance → operational governance and bounded implications → conclusion
+
 ### Suggested drafting order
 
 1. Main question and subquestions.
@@ -199,13 +215,15 @@ Change the underlying research design when feedback targets scope or importance,
 
 1. Classify feedback as topic, scope, importance, evidence, method, format, or wording.
 2. Identify the decision it implies.
-3. Revise the smallest set of linked sections needed for consistency.
-4. Re-run P0 or P1 if the case, question, or evidence changes materially.
-5. Preserve the previous version.
+3. If the feedback concerns Chapters 3–6, first separate case introduction from case analysis, then test whether the current subquestions need to be merged, reordered, or expanded.
+4. Revise the smallest set of linked sections needed for consistency.
+5. Update the main question, subquestions, chapter titles, contents, and framework diagram together when the analytical structure changes.
+6. Re-run P0 or P1 if the case, question, or evidence changes materially.
+7. Preserve the previous version.
 
 ### Output
 
-A new version and a concise change log.
+A new version, a revised question–chapter map or framework diagram when needed, and a concise change log.
 
 ### Quality checkpoint
 
@@ -231,3 +249,5 @@ Submission copy, editable source files, evidence index, and defense question set
 ### Quality checkpoint
 
 Every major claim can be traced to evidence or clearly identified as an interpretation.
+
+
