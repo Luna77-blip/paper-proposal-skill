@@ -26,6 +26,7 @@ Classify each advisor comment before editing:
 |---|---|---|
 | Topic | Wrong domain or unimportant question | Revisit candidate selection or P0 |
 | Scope | Too small, broad, or fragmented | Redesign the question chain |
+| Structure | Chapters repeat, mix background with analysis, or do not reflect subquestions | Rebuild the question–chapter mapping and synchronize the framework diagram |
 | Evidence | Insufficient or inaccessible data | Re-run P1 or narrow claims |
 | Method | Method cannot answer the question | Replace or remove the method |
 | Discipline | Weak accounting, finance, audit, or governance fit | Reframe constructs and evidence |
@@ -33,6 +34,21 @@ Classify each advisor comment before editing:
 | Format | Template, table, figure, citation issue | Preserve content and repair layout |
 
 Do not respond to a scope problem by only lengthening the title.
+
+## Chapter-architecture correction
+
+When the advisor asks to rethink Chapters 3–6, correct the analytical architecture before rewriting paragraphs:
+
+1. **Separate case introduction from case analysis.** Put company background, institutional setting, governance history, case selection, and key baseline facts in the case-introduction chapter.
+2. **Make each core analysis chapter answer one subquestion.** Use chapter titles that reveal the mechanism or judgment being analyzed.
+3. **Merge overlapping questions.** If two questions depend on the same evidence and differ only in wording, combine them into one chapter.
+4. **Retain narrow technical issues at the right level.** An evidence-rich measurement, boundary, or accounting issue can remain a full analysis chapter even when it is too small to be the thesis title.
+5. **Bound the final chapter's implications.** Discuss transferable implications only to the extent supported by the case evidence.
+6. **Synchronize all representations.** Update the title, research questions, chapter titles, table of contents, framework diagram, and expected conclusions as one linked set.
+
+For governance-oriented case studies, a clear three-question sequence often follows:
+
+> external requirements and internalization → data or measurement governance → operational governance and bounded strategic implications
 
 ## Local-edit discipline
 
@@ -71,6 +87,14 @@ Delete sentences whose only function is to anticipate criticism and that do not 
 - explain breaks in series and boundary changes;
 - ensure visual claims match the table data.
 
+For research-framework diagrams:
+
+- preserve the original slide or figure and create a new version when the user wants comparison;
+- keep every shape editable when requested;
+- make the left-to-right or top-to-bottom blocks mirror the chapter order;
+- distinguish the case-introduction block from the three analysis blocks;
+- avoid adding concepts that do not appear in the main question, subquestions, or chapters.
+
 ## Delivery report
 
 Tell the user:
@@ -80,3 +104,5 @@ Tell the user:
 - what was verified;
 - the exact output location;
 - any decision still requiring user or advisor confirmation.
+
+
