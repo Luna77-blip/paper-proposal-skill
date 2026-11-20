@@ -38,8 +38,9 @@
 ## Research questions
 
 - [ ] There is one main question.
-- [ ] There are three or four subquestions.
-- [ ] Each subquestion maps to evidence, method, and chapter.
+- [ ] There are three subquestions by default; a fourth is retained only when it has independent evidence, method, and chapter value.
+- [ ] Case background is not counted as a research question unless it is analyzed.
+- [ ] Each subquestion maps one-to-one to evidence, method, and an analysis chapter.
 - [ ] The subquestions jointly answer the main question.
 - [ ] The result question does not presume effectiveness.
 
@@ -63,6 +64,10 @@
 ## Proposal
 
 - [ ] Title, question, methods, evidence, chapters, and conclusion align.
+- [ ] The case-introduction chapter is separate from the core case-analysis chapters.
+- [ ] Chapters 3–6 have a clear sequence and do not repeat the same evidence under different labels.
+- [ ] Each core analysis chapter title expresses the analytical logic of one subquestion.
+- [ ] The research-framework diagram mirrors the question and chapter structure.
 - [ ] Theory explains the mechanism rather than decorating the review.
 - [ ] Significance and contribution are evidence-bounded.
 - [ ] Key tables include source, unit, period, and definition.
@@ -75,6 +80,7 @@
 - [ ] The output has a new version number.
 - [ ] User formatting was preserved unless change was requested.
 - [ ] Editable chart and diagram sources are retained.
+- [ ] When a framework diagram was revised, the original was preserved and the new version remains editable.
 - [ ] All pages were visually inspected.
 - [ ] The final response states the exact output location.
 
@@ -87,3 +93,5 @@
 - [ ] Method choices can be defended.
 - [ ] Causal and generalization boundaries are understood.
 - [ ] Remaining evidence gaps have a collection plan.
+
+
