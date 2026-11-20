@@ -74,15 +74,17 @@ A global manufacturer substantially restated its base-year value-chain emissions
 
 The restatement became the technical axis of a broader governance study:
 
-- external low-carbon rules and public customer requirements;
-- internal management control and carbon-data systems;
-- Scope 3 boundaries, factors, supplier data, and base-year restatement;
-- supplier admission, audit, remediation, and capability building;
-- support for customer response and overseas compliance preparation.
+- external low-carbon rules, public customer requirements, and their internalization into management controls;
+- Scope 3 boundaries, factors, supplier data, base-year restatement, review, and assurance;
+- supplier admission, audit, remediation, capability building, and bounded support for global operations.
 
 ### Decision rule
 
 When a narrow measurement issue is evidence-rich and connects several organizational processes, retain it as a core chapter or technical axis. Do not force it to carry the entire thesis.
+
+### Structural lesson
+
+Do not split “external pressure” and “organizational internalization” into separate questions when they form one continuous mechanism and use overlapping evidence. A clearer architecture may use one case-introduction chapter followed by three analysis chapters: pressure internalization, Scope 3 data governance, and supplier governance with bounded operating implications.
 
 ## 4. ESG committee establishment as a governance topic
 
@@ -211,3 +213,5 @@ The strongest direction is not necessarily the newest. It is the one where an im
 | Case is new but mechanism duplicates prior work | Reject or find a real increment |
 | Effect cannot be identified but process is observable | Reframe as mechanism or response study |
 | Advisor rejects discipline fit | Reconnect to measurement, control, assurance, incentives, or governance; otherwise reject |
+
+
