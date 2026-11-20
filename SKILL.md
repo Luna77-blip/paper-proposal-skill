@@ -34,6 +34,7 @@ Choose the smallest mode that covers the request:
 4. **开题设计模式**：define the research question chain, literature logic, methods, theory, outline, and expected contribution.
 5. **文档修订模式**：revise an existing proposal without overwriting the source or damaging formatting.
 6. **答辩准备模式**：stress-test importance, novelty, feasibility, evidence, methods, and claim boundaries.
+7. **结构纠偏模式**：when advisor feedback targets chapters, subquestions, or a framework diagram, redesign their one-to-one mapping before editing prose.
 
 For the end-to-end sequence and deliverables, read [references/workflow.md](references/workflow.md).
 
@@ -57,19 +58,35 @@ When a candidate has been rejected or narrowed by an advisor, read [references/t
 
 ### 3. Build one question chain
 
-Prefer one main question with three or four subquestions. A useful mechanism structure is:
+Prefer one main question with three subquestions when the mechanism can be expressed in three analytically distinct stages. Add a fourth only when it has independent evidence, method, and chapter value. A useful mechanism structure is:
 
 > context or pressure → organizational internalization → operating mechanism → observable result and boundary
 
-Each subquestion should map to a chapter, evidence set, and analysis step. Avoid combining unrelated outcomes merely because the case contains them.
+Each subquestion should map to one analysis chapter, evidence set, and analysis step. Do not turn background, company introduction, or policy context into a separate subquestion unless it is itself analyzed. Avoid combining unrelated outcomes merely because the case contains them.
 
-### 4. Verify literature before using it
+### 4. Lock chapter architecture before expanding prose
+
+Separate case introduction from case analysis.
+
+- The case-introduction chapter establishes the company, institutional setting, governance history, key data, and why the case reveals the problem. It should not pre-empt the analytical findings.
+- Each core analysis chapter should answer one subquestion and expose its own evidence logic in the chapter title.
+- A narrow but evidence-rich technical issue may be retained as one core analysis chapter rather than carrying the whole thesis.
+- When two subquestions use the same mechanism and evidence, merge them instead of creating an artificial extra chapter.
+- Synchronize the title, main question, subquestions, chapter titles, table of contents, and framework diagram after any structural change.
+
+For a three-stage governance case, a useful architecture is:
+
+> case background → external requirements and internalization → data or measurement governance → operational governance and bounded implications → conclusion
+
+The framework diagram should visualize this chapter logic, not introduce an additional theory or parallel set of questions.
+
+### 5. Verify literature before using it
 
 Treat “found in search,” “bibliographically verified,” “full text obtained,” and “claim checked in the original” as different states. Never infer a paper's conclusion from its title. Remove or quarantine unverifiable sources.
 
 Read [references/literature-audit.md](references/literature-audit.md) before expanding or citing a literature review.
 
-### 5. Use only methods that answer a research question
+### 6. Use only methods that answer a research question
 
 For every method, state:
 
@@ -80,11 +97,11 @@ For every method, state:
 
 Do not label timelines, ratios, bridges, peer references, triangulation, or charts as independent research methods unless the discipline recognizes them as such. Treat them as analytical operations under the selected method.
 
-### 6. Keep claims within the evidence boundary
+### 7. Keep claims within the evidence boundary
 
 Case-study public evidence usually supports mechanisms, sequences, practices, and associations more readily than causal effects. Prefer “supports,” “is associated with,” “provides a path,” or “forms a capability” when causality is not identified. Do not turn a strategic narrative into a proven economic consequence.
 
-### 7. Revise documents conservatively
+### 8. Revise documents conservatively
 
 When editing an existing proposal:
 
@@ -101,6 +118,8 @@ Read [references/document-revision.md](references/document-revision.md) for the 
 A proposal is ready for advisor review only when:
 
 - the title, main question, subquestions, methods, evidence, and chapters align;
+- the case-introduction chapter is distinct from the chapters that answer the research questions;
+- each core analysis chapter answers one subquestion and the framework diagram mirrors that mapping;
 - key facts are supported by traceable sources;
 - the literature review explains debates and gaps rather than listing authors;
 - methods are necessary, executable, and conventionally named;
@@ -126,3 +145,5 @@ Ask the user before:
 Safe defaults are to preserve versions, prioritize official sources, quarantine uncertain citations, use cautious causal language, and stop at a reviewable local artifact before external publication.
 
 For a worked, anonymized example, read [examples/anonymized-case.md](examples/anonymized-case.md).
+
+
