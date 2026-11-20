@@ -52,17 +52,28 @@ How does a global manufacturer internalize international low-carbon rules and pu
 
 ### Subquestions
 
-1. How do external rules, public customer requirements, and global strategy form governance pressure?
-2. How is that pressure translated into responsibilities, targets, budgets, internal carbon pricing, and data systems?
-3. How are Scope 3 boundaries, supplier data, emission factors, base-year restatements, and assurance connected?
-4. How does data governance connect with supplier admission, audit, remediation, and capacity building, and what global-operating functions can public evidence support?
+1. How are international low-carbon rules, public customer requirements, and global operating needs translated into organizational responsibilities, targets, internal carbon pricing, and data systems?
+2. How are Scope 3 boundaries, supplier activity data, emission factors, base-year restatements, review, and assurance organized into a data-governance process?
+3. How does Scope 3 data governance connect with supplier admission, audit, remediation, and capacity building, and what support for global operations can the public evidence establish?
+
+The original pressure and internalization questions were combined because they formed one continuous mechanism and relied on overlapping evidence. This created a cleaner three-question chain without removing the external-pressure evidence.
+
+## Chapter architecture
+
+- **Chapter 3: Case introduction.** Institutional setting, company profile, global footprint, dual role in the supply chain, carbon-governance history, and emissions structure.
+- **Chapter 4: External requirements and organizational internalization.** Answers subquestion 1.
+- **Chapter 5: Scope 3 data governance.** Answers subquestion 2 and retains the earlier boundary-restatement topic as a full technical chapter.
+- **Chapter 6: Supplier governance and global operations.** Answers subquestion 3 using supplier admission, review, remediation, and capacity-building evidence.
+- **Chapter 7: Conclusions and implications.** Summarizes the mechanism, boundaries, and implications for comparable global supply-chain firms.
+
+The framework diagram was revised to mirror this order. The original diagram was retained, and the new editable version separated the case-introduction block from the three analysis blocks.
 
 ## Methods
 
-The final design used:
+The final design used the method names accepted by the program and advisor:
 
-- a longitudinal single-case study to reconstruct governance development;
-- text or content analysis to code company, supplier, assurance, and policy documents.
+- case analysis to reconstruct the longitudinal governance process and connect the three analytical stages;
+- text analysis to code company, supplier, assurance, customer, and policy documents.
 
 Time-series tables, peer references, calculation bridges, and evidence triangulation were treated as analytical operations rather than separate methods. An event study was removed because capital-market reaction was not part of the central question.
 
@@ -77,3 +88,6 @@ The proposal replaced strong statements such as “carbon governance promotes in
 3. Public case evidence can support process and mechanism claims more reliably than causal performance claims.
 4. A proposal becomes defensible when every subquestion has accessible evidence and a necessary method.
 5. Version control, source verification, editable figures, and final layout review are part of research quality, not only document administration.
+6. When an advisor asks for clearer Chapters 3–6, revise the question–chapter mapping first; prose editing should follow the new architecture.
+
+
